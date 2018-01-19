@@ -9,6 +9,6 @@
 1. Install packages: `npm install`
 2. Edit the database configuration: `config/database.js`
 3. Create the database schema: `node create_database.js`
-4. Launch: `node app.js`
-5. Visit in your browser at: `http://localhost:8080`
-
+4. Padad folder routes-->index.js. Update pada app.post("/forgot")di "nodemailer.createTransport" Ubah user dan pass email and
+5. Launch: `node app.js`
+6. Visit in your browser at: `http://localhost:8080`
